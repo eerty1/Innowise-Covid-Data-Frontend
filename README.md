@@ -6,7 +6,7 @@ Angular application to display API data from [here](https://github.com/eerty1/In
 
 ## Installation
 
-You are proposed to use Angular 12 and 14.15.0
+You are proposed to use Angular 12 and Node 14.15.0
 
 * git clone # Innowise-Covid-Data-Frontend
 
